@@ -1,1 +1,1 @@
-console.log("Нихуя не понятно")
+console.log("Hello, GitHub")
